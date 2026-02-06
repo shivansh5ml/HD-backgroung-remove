@@ -1,0 +1,27 @@
+body {
+  background: #0f172a;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+.app {
+  margin-top: 80px;
+}
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background: #22c55e;
+  border: none;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+.preview img {
+  margin-top: 20px;
+  max-width: 300px;
+}
+a {
+  display: block;
+  margin-top: 15px;
+  color: #38bdf8;
+}
