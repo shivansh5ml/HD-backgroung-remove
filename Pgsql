@@ -1,0 +1,6 @@
+bg-remover-backend
+ ├── server.js
+ ├── package.json
+ └── .env   
+REMOVE_BG_KEY=q3wv6vSoueEU1fN1y8uVgVBG
+
